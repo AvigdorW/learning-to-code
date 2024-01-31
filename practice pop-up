@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><h1>try the best you can</h1></head>
+<script>
+function showAlert() {
+alert("button was clicked")
+</script>
+</head>
+<body>
+<h1>try the best you can</h1>
+<button oneclick="showAlert()">click here to get started</button>
+</body>
+</html>
